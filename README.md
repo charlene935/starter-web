@@ -13,3 +13,7 @@ As stated above, the main purpose is to provide samples examples for Git trainin
 
 ## Deployment
 This is a simple web project, deployment can be on any web server or even local file system.
+
+### Copyright
+
+2017 Git.Training
